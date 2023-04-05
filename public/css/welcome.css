@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(255, 228, 254);
+    height: 75vh;
+    width: 100%;
+}
+
+.card-body{
+    background-color: #ffcfed;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffcfed;
+    border-bottom: 1px solid black;
+    position: fixed;
+    width: 100%;
+}
